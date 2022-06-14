@@ -1,5 +1,5 @@
-import { Routes, Route } from "react-router-dom";
-import Index from "./pages/Index";
+import { Routes, Route } from "react-router-dom"
+import Index from "./pages/Index"
 
 function App() {
   return (
